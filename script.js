@@ -10,3 +10,13 @@
 
 // loop
 
+// math knowloge
+
+// addition + ,sub +,mul *,dev /,%
+
+
+var x=5
+
+var name=true
+var eat=true
+console.log(typeof name)
